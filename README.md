@@ -12,4 +12,4 @@ Simulation Forest is a computational model designed to simulate tree growth, env
 🔹 Frameworks & Libraries: Boostrap
 🔹 Database: MySQL
 
-Database Name:
+Database Name: selected_topic.sql
